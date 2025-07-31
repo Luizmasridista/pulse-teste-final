@@ -201,6 +201,23 @@ class ValidationError(SyncException):
         )
 
 
+# Exceções de Monitoramento
+class MonitoringException(PulseBaseException):
+    """Exceções relacionadas ao monitoramento do sistema."""
+    pass
+
+
+class MonitoringError(MonitoringException):
+    """Erro durante operações de monitoramento."""
+    
+    def __init__(self, operation: str, error_details: str):
+        super().__init__(
+            f"Erro no monitoramento ({operation}): {error_details}",
+            "MONITORING_ERROR",
+            {"operation": operation, "error_details": error_details}
+        )
+
+
 # Exceções de Performance
 class PerformanceException(PulseBaseException):
     """Exceções relacionadas à performance do sistema."""

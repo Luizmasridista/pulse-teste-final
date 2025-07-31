@@ -50,6 +50,18 @@ class Config:
     MEMORY_LIMIT_MB = 512
     TIMEOUT_SECONDS = 300
     
+    # Configurações de cache
+    CACHE_MAX_SIZE = 1000
+    CACHE_TTL = 3600  # 1 hora em segundos
+    CACHE_ENABLED = True
+    
+    # Configurações de monitoramento
+    class monitoring:
+        polling_interval = 5.0  # segundos
+        enable_file_watching = True
+        max_events_per_second = 100
+        debounce_delay = 1.0  # segundos
+    
     @classmethod
     def get_mestre_path(cls) -> Path:
         """Retorna o caminho completo da planilha mestre."""

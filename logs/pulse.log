@@ -1,0 +1,144 @@
+2025-07-30 23:08:04 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:08:36 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:08:36 | INFO | src.core.metrics:__init__:127 | MetricsCollector inicializado
+2025-07-30 23:09:08 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:09:08 | INFO | src.core.metrics:__init__:127 | MetricsCollector inicializado
+2025-07-30 23:09:08 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:09:08 | INFO | src.core.cache:__init__:265 | FileCache inicializado
+2025-07-30 23:09:08 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:09:08 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:09:08 | INFO | src.core.cache:__init__:421 | CacheManager inicializado
+2025-07-30 23:09:59 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:09:59 | INFO | src.core.metrics:__init__:127 | MetricsCollector inicializado
+2025-07-30 23:09:59 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:09:59 | INFO | src.core.cache:__init__:265 | FileCache inicializado
+2025-07-30 23:09:59 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:09:59 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:09:59 | INFO | src.core.cache:__init__:421 | CacheManager inicializado
+2025-07-30 23:10:00 | INFO | src.core.validation:__init__:353 | DataValidator inicializado
+2025-07-30 23:10:24 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:10:24 | INFO | src.core.metrics:__init__:127 | MetricsCollector inicializado
+2025-07-30 23:10:24 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:10:24 | INFO | src.core.cache:__init__:265 | FileCache inicializado
+2025-07-30 23:10:24 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:10:24 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:10:24 | INFO | src.core.cache:__init__:421 | CacheManager inicializado
+2025-07-30 23:10:25 | INFO | src.core.validation:__init__:353 | DataValidator inicializado
+2025-07-30 23:10:57 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:10:57 | INFO | src.core.metrics:__init__:127 | MetricsCollector inicializado
+2025-07-30 23:10:57 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:10:57 | INFO | src.core.cache:__init__:265 | FileCache inicializado
+2025-07-30 23:10:57 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:10:57 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:10:57 | INFO | src.core.cache:__init__:421 | CacheManager inicializado
+2025-07-30 23:10:58 | INFO | src.core.validation:__init__:353 | DataValidator inicializado
+2025-07-30 23:10:58 | INFO | src.core.monitoring:__init__:237 | FileMonitor inicializado com modo: hybrid
+2025-07-30 23:10:58 | DEBUG | src.core.monitoring:add_callback:299 | Callback adicionado: _handle_spreadsheet_change
+2025-07-30 23:10:58 | INFO | src.core.monitoring:__init__:524 | SpreadsheetMonitor inicializado
+2025-07-30 23:11:22 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:11:22 | INFO | src.core.metrics:__init__:127 | MetricsCollector inicializado
+2025-07-30 23:11:22 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:11:22 | INFO | src.core.cache:__init__:265 | FileCache inicializado
+2025-07-30 23:11:22 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:11:22 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:11:22 | INFO | src.core.cache:__init__:421 | CacheManager inicializado
+2025-07-30 23:11:23 | INFO | src.core.validation:__init__:353 | DataValidator inicializado
+2025-07-30 23:11:23 | INFO | src.core.monitoring:__init__:237 | FileMonitor inicializado com modo: hybrid
+2025-07-30 23:11:23 | DEBUG | src.core.monitoring:add_callback:299 | Callback adicionado: _handle_spreadsheet_change
+2025-07-30 23:11:23 | INFO | src.core.monitoring:__init__:524 | SpreadsheetMonitor inicializado
+2025-07-30 23:11:51 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:11:51 | INFO | src.core.metrics:__init__:127 | MetricsCollector inicializado
+2025-07-30 23:11:51 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:11:51 | INFO | src.core.cache:__init__:265 | FileCache inicializado
+2025-07-30 23:11:51 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:11:51 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:11:51 | INFO | src.core.cache:__init__:421 | CacheManager inicializado
+2025-07-30 23:11:52 | INFO | src.core.validation:__init__:353 | DataValidator inicializado
+2025-07-30 23:11:52 | INFO | src.core.monitoring:__init__:237 | FileMonitor inicializado com modo: hybrid
+2025-07-30 23:11:52 | DEBUG | src.core.monitoring:add_callback:299 | Callback adicionado: _handle_spreadsheet_change
+2025-07-30 23:11:52 | INFO | src.core.monitoring:__init__:524 | SpreadsheetMonitor inicializado
+2025-07-30 23:11:52 | INFO | src.core.backup:_load_backup_history:537 | Carregados 0 backups do histórico
+2025-07-30 23:11:52 | INFO | src.core.backup:__init__:146 | BackupManager inicializado: C:\Users\haneg\TESTE-FINAL-PULSE\pulse-teste-final\backend\BACKUP
+2025-07-30 23:12:17 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:12:17 | INFO | src.core.metrics:__init__:127 | MetricsCollector inicializado
+2025-07-30 23:12:17 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:12:17 | INFO | src.core.cache:__init__:265 | FileCache inicializado
+2025-07-30 23:12:17 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:12:17 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:12:17 | INFO | src.core.cache:__init__:421 | CacheManager inicializado
+2025-07-30 23:12:18 | INFO | src.core.validation:__init__:353 | DataValidator inicializado
+2025-07-30 23:12:18 | INFO | src.core.monitoring:__init__:237 | FileMonitor inicializado com modo: hybrid
+2025-07-30 23:12:18 | DEBUG | src.core.monitoring:add_callback:299 | Callback adicionado: _handle_spreadsheet_change
+2025-07-30 23:12:18 | INFO | src.core.monitoring:__init__:524 | SpreadsheetMonitor inicializado
+2025-07-30 23:12:18 | INFO | src.core.backup:_load_backup_history:537 | Carregados 0 backups do histórico
+2025-07-30 23:12:18 | INFO | src.core.backup:__init__:146 | BackupManager inicializado: C:\Users\haneg\TESTE-FINAL-PULSE\pulse-teste-final\backend\BACKUP
+2025-07-30 23:13:12 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:13:12 | INFO | src.core.metrics:__init__:127 | MetricsCollector inicializado
+2025-07-30 23:13:12 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:13:12 | INFO | src.core.cache:__init__:265 | FileCache inicializado
+2025-07-30 23:13:12 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:13:12 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:13:12 | INFO | src.core.cache:__init__:421 | CacheManager inicializado
+2025-07-30 23:13:13 | INFO | src.core.validation:__init__:353 | DataValidator inicializado
+2025-07-30 23:13:13 | INFO | src.core.monitoring:__init__:237 | FileMonitor inicializado com modo: hybrid
+2025-07-30 23:13:13 | DEBUG | src.core.monitoring:add_callback:299 | Callback adicionado: _handle_spreadsheet_change
+2025-07-30 23:13:13 | INFO | src.core.monitoring:__init__:524 | SpreadsheetMonitor inicializado
+2025-07-30 23:13:13 | INFO | src.core.backup:_load_backup_history:537 | Carregados 0 backups do histórico
+2025-07-30 23:13:13 | INFO | src.core.backup:__init__:146 | BackupManager inicializado: C:\Users\haneg\TESTE-FINAL-PULSE\pulse-teste-final\backend\BACKUP
+2025-07-30 23:13:13 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmp1j8ak7b8\BACKUP
+2025-07-30 23:13:13 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmp7nn8lzyk\BACKUP
+2025-07-30 23:13:13 | INFO | src.sync.backup_manager:create_backup:93 | Nenhuma planilha mestre encontrada para backup
+2025-07-30 23:13:13 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmp7yd97wz3\BACKUP
+2025-07-30 23:13:14 | INFO | src.sync.backup_manager:create_backup:100 | Iniciando backup: C:\Users\haneg\AppData\Local\Temp\tmp7yd97wz3\MESTRE\planilha_consolidada.xlsx -> C:\Users\haneg\AppData\Local\Temp\tmp7yd97wz3\BACKUP\2025-07-30_23-13-14_planilha_consolidada.xlsx
+2025-07-30 23:13:14 | DEBUG | src.sync.backup_manager:_validate_backup_integrity:186 | Backup validado como planilha Excel válida
+2025-07-30 23:13:14 | DEBUG | src.sync.backup_manager:_validate_backup_integrity:196 | Checksums coincidem - backup íntegro
+2025-07-30 23:13:14 | INFO | src.sync.backup_manager:create_backup:107 | Backup criado com sucesso: C:\Users\haneg\AppData\Local\Temp\tmp7yd97wz3\BACKUP\2025-07-30_23-13-14_planilha_consolidada.xlsx
+2025-07-30 23:13:14 | DEBUG | src.sync.backup_manager:_cleanup_old_backups:254 | Nenhum backup antigo para remover
+2025-07-30 23:13:14 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpn1q1dvm8\BACKUP
+2025-07-30 23:13:14 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmppwb9myn3\BACKUP
+2025-07-30 23:13:14 | DEBUG | src.sync.backup_manager:_validate_backup_integrity:186 | Backup validado como planilha Excel válida
+2025-07-30 23:13:14 | DEBUG | src.sync.backup_manager:_validate_backup_integrity:196 | Checksums coincidem - backup íntegro
+2025-07-30 23:13:14 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmplcw4aa2p\BACKUP
+2025-07-30 23:13:14 | WARNING | src.sync.backup_manager:_validate_backup_integrity:180 | Diferença significativa no tamanho: 99.63%
+2025-07-30 23:13:14 | ERROR | src.sync.backup_manager:_validate_backup_integrity:203 | Erro na validação de integridade: File is not a zip file
+2025-07-30 23:13:14 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpf1lggtjf\BACKUP
+2025-07-30 23:13:14 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpcqdus66f\BACKUP
+2025-07-30 23:13:14 | DEBUG | src.sync.backup_manager:_cleanup_old_backups:245 | Backup antigo removido: 2025-07-28_23-13-14_planilha_consolidada.xlsx
+2025-07-30 23:13:14 | INFO | src.sync.backup_manager:_cleanup_old_backups:252 | Limpeza concluída: 1 backups antigos removidos
+2025-07-30 23:13:14 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmplo7w11ud\BACKUP
+2025-07-30 23:13:14 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmp8dw0h5ex\BACKUP
+2025-07-30 23:13:37 | INFO | src.core.logger:_setup_logger:85 | Sistema de logging inicializado com sucesso
+2025-07-30 23:13:37 | INFO | src.core.metrics:__init__:127 | MetricsCollector inicializado
+2025-07-30 23:13:37 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:13:37 | INFO | src.core.cache:__init__:265 | FileCache inicializado
+2025-07-30 23:13:37 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:13:37 | INFO | src.core.cache:__init__:87 | LRUCache inicializado
+2025-07-30 23:13:37 | INFO | src.core.cache:__init__:421 | CacheManager inicializado
+2025-07-30 23:13:38 | INFO | src.core.validation:__init__:353 | DataValidator inicializado
+2025-07-30 23:13:38 | INFO | src.core.monitoring:__init__:237 | FileMonitor inicializado com modo: hybrid
+2025-07-30 23:13:38 | DEBUG | src.core.monitoring:add_callback:299 | Callback adicionado: _handle_spreadsheet_change
+2025-07-30 23:13:38 | INFO | src.core.monitoring:__init__:524 | SpreadsheetMonitor inicializado
+2025-07-30 23:13:38 | INFO | src.core.backup:_load_backup_history:537 | Carregados 0 backups do histórico
+2025-07-30 23:13:38 | INFO | src.core.backup:__init__:146 | BackupManager inicializado: C:\Users\haneg\TESTE-FINAL-PULSE\pulse-teste-final\backend\BACKUP
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpwzftf8wg\BACKUP
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpqk__f3wd\BACKUP
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:create_backup:93 | Nenhuma planilha mestre encontrada para backup
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmp8voxzb6y\BACKUP
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:create_backup:100 | Iniciando backup: C:\Users\haneg\AppData\Local\Temp\tmp8voxzb6y\MESTRE\planilha_consolidada.xlsx -> C:\Users\haneg\AppData\Local\Temp\tmp8voxzb6y\BACKUP\2025-07-30_23-13-38_planilha_consolidada.xlsx
+2025-07-30 23:13:38 | DEBUG | src.sync.backup_manager:_validate_backup_integrity:186 | Backup validado como planilha Excel válida
+2025-07-30 23:13:38 | DEBUG | src.sync.backup_manager:_validate_backup_integrity:196 | Checksums coincidem - backup íntegro
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:create_backup:107 | Backup criado com sucesso: C:\Users\haneg\AppData\Local\Temp\tmp8voxzb6y\BACKUP\2025-07-30_23-13-38_planilha_consolidada.xlsx
+2025-07-30 23:13:38 | DEBUG | src.sync.backup_manager:_cleanup_old_backups:254 | Nenhum backup antigo para remover
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpcyfie35h\BACKUP
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpkqxzbuu1\BACKUP
+2025-07-30 23:13:38 | DEBUG | src.sync.backup_manager:_validate_backup_integrity:186 | Backup validado como planilha Excel válida
+2025-07-30 23:13:38 | DEBUG | src.sync.backup_manager:_validate_backup_integrity:196 | Checksums coincidem - backup íntegro
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmp8j88wtbc\BACKUP
+2025-07-30 23:13:38 | WARNING | src.sync.backup_manager:_validate_backup_integrity:180 | Diferença significativa no tamanho: 99.63%
+2025-07-30 23:13:38 | ERROR | src.sync.backup_manager:_validate_backup_integrity:203 | Erro na validação de integridade: File is not a zip file
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpwi3il9w_\BACKUP
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpkmj0y8cw\BACKUP
+2025-07-30 23:13:38 | DEBUG | src.sync.backup_manager:_cleanup_old_backups:245 | Backup antigo removido: 2025-07-28_23-13-38_planilha_consolidada.xlsx
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_cleanup_old_backups:252 | Limpeza concluída: 1 backups antigos removidos
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpin8t2gt3\BACKUP
+2025-07-30 23:13:38 | INFO | src.sync.backup_manager:_ensure_folders_exist:75 | Pastas de backup verificadas: C:\Users\haneg\AppData\Local\Temp\tmpx89gl378\BACKUP

@@ -128,9 +128,9 @@ class BackupManager:
     
     def __init__(self, backup_config: Optional[BackupConfig] = None):
         self.config = backup_config or BackupConfig(
-            backup_dir=config.paths.backup_dir,
-            max_backups=config.backup.max_backups,
-            compression_level=CompressionLevel(config.backup.compression_level)
+            backup_dir=config.BACKUP_DIR,
+            max_backups=config.BACKUP_RETENTION_DAYS,
+            compression_level=CompressionLevel.NORMAL
         )
         
         self.logger = get_logger(self.__class__.__name__)

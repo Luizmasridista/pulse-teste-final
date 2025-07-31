@@ -16,7 +16,7 @@ from .exceptions import (
     BackupError,
     handle_exception
 )
-from .logger import get_logger, setup_logging
+from .logger import get_logger
 from .metrics import (
     metrics_collector,
     PerformanceMetric,
@@ -54,7 +54,7 @@ from .backup import (
 from .permissions import (
     PermissionValidator,
     PermissionResult,
-    validate_system_permissions
+    validate_system_directories
 )
 
 # Versão do módulo

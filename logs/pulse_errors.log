@@ -1,0 +1,2 @@
+2025-07-30 23:13:14 | ERROR | src.sync.backup_manager:_validate_backup_integrity:203 | Erro na validação de integridade: File is not a zip file
+2025-07-30 23:13:38 | ERROR | src.sync.backup_manager:_validate_backup_integrity:203 | Erro na validação de integridade: File is not a zip file

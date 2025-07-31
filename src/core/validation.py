@@ -14,7 +14,7 @@ from dataclasses import dataclass, field
 from enum import Enum
 
 from .config import config
-from .exceptions import ValidationError, DataValidationError
+from .exceptions import ValidationError
 from .logger import get_logger
 from .metrics import metrics_collector
 
