@@ -1,0 +1,32 @@
+# Dependências principais do projeto
+# Sistema de consolidação de planilhas
+
+# Manipulação de planilhas
+openpyxl>=3.1.2
+pandas>=2.0.0
+xlsxwriter>=3.1.0
+
+# Utilitários do sistema
+pathlib2>=2.3.7
+
+# Logging e monitoramento
+loguru>=0.7.0
+
+# Testes
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Formatação de código
+black>=23.0.0
+flake8>=6.0.0
+
+# Desenvolvimento
+ipython>=8.14.0
+
+# API (para futuras implementações)
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Utilitários adicionais
+tqdm>=4.65.0
+colorama>=0.4.6
